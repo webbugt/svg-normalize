@@ -1,0 +1,11 @@
+{
+  "name": "human-svg-transform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "svg-parser": "^2.0.4",
+    "svg-transform": "^0.0.3",
+    "yargs": "^16.2.0"
+  }
+}
