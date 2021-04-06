@@ -20,3 +20,9 @@ node transform-svg.js /home/svgs-to-convert --outFolder=/home/converted --toJsTe
 - --viewBox - specify new viewBox for svg file - default: 0 0 32 32
 - --removeFills - remove all fills in svg - default: true
 - --precision - number of decimal points for output values - default: 3
+
+# ToDo:
+
+- probable glitch when parsing options
+- separate all functions to files
+- find a way to conect "node transform-svg.js" to an alias on "npm i"
