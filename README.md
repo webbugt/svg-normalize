@@ -7,6 +7,10 @@ node transform-svg.js "svg-name.svg" --viewBox="0 0 32 32"
 
 
 node transform-svg.js /home/svgs-to-convert --outFolder=/home/converted --toJsTemplate --viewBox="0 0 32 32"
+
+node transform-svg.js '<svg width="37" height="30" viewBox="0 0 37 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M32.3496 11.5833C32.2566 ... 11.5833Z" fill="#080808"/>
+</svg>'
 ```
 
 # Params:
